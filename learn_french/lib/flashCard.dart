@@ -130,6 +130,7 @@ class _FlashCardScreenState extends State<FlashCardScreen> {
         )
 
         ])));
-
   }
 }
+
+
