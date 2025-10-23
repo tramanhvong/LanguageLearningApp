@@ -29,7 +29,11 @@ class _FlashCardScreenState extends State<FlashCardScreen> {
       fontWeight: FontWeight.w600);
 
   // data for flashcards - to be added more alter
+  Map<String, String> big_list = [new Map<String, String>()];
+
+
   var data = {
+      "Mixed": big_list,
       "Food": [
             {"word": "Tea", "result": "Thé"},
             {"word": "rice", "result": "riz"},
