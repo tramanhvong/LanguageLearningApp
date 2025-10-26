@@ -28,7 +28,7 @@ class _FlashCardScreenState extends State<FlashCardScreen> {
 
   // styling the text
   TextStyle textStyle = TextStyle(
-    color: Colors.red.shade900,
+    color: Colors.black,
     fontSize: 20,
     fontWeight: FontWeight.w600,
   );
